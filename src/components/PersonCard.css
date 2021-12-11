@@ -1,4 +1,21 @@
 .person-card {
   background-color: white;
+  border: 0.1rem solid black;
+  border-radius: 1.2rem;
+  padding: 1rem;
+  width: 25vw;
+  margin: 1rem;
+}
+
+.person-card-name {
+  font-size: 1.5rem;
+  text-align: center;
+  padding-bottom: .3rem;
+}
+
+.person-card-username {
+  font-size: 1.2rem;
+  text-align: end;
+  text-decoration: underline;
 }
 /*# sourceMappingURL=PersonCard.css.map */

@@ -39,24 +39,23 @@ const AddToPersonList: React.FC<IProps> = ({ people, setPeople }) => {
         ])
     }
 
-    return (<div className="flex-col" style={{ padding: "1rem", fontSize: "1.5rem" }}>
+    return (<div>
         <h3>Add a New Person</h3>
-        <div className="new-person-form">
+        <div>
             <input type="text"
                 placeholder="Name"
                 value={input.name}
-                className="new-person-form-input"
                 onChange={handleChange}
                 name="name"
             />
         </div>
-        <div className="new-person-form">
+        <div>
             <input type="text"
                 placeholder="Username"
                 value={input.username}
                 name="username"
                 onChange={handleChange}
-                className="new-person-form-input" />
+            />
         </div>
         <button onClick={handleClick}>Add Person</button>
     </div>)
