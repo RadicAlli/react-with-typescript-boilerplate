@@ -1,0 +1,13 @@
+.person-list {
+  background-color: lightblue;
+}
+
+.person-list-person {
+  font-size: 1.3rem;
+  padding: 0.3rem 0.5rem;
+}
+
+.person-list-person-name {
+  padding: 0.3rem 0.5rem;
+}
+/*# sourceMappingURL=PersonList.css.map */

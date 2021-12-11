@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAC;EACT,gBAAgB,EAAE,KAAK;CAAG",
+    "sources": [
+        "PersonCard.sass"
+    ],
+    "names": [],
+    "file": "PersonCard.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAC;EACT,gBAAgB,EAAE,SAAS;CAOU;;AALpC,AAAD,mBAAQ,CAAC;EACL,SAAS,EAAE,MAAM;EACjB,OAAO,EAAE,aAAa;CAGS;;AAD9B,AAAD,wBAAM,CAAC;EACH,OAAO,EAAE,aAAa;CAAG",
+    "sources": [
+        "PersonList.sass"
+    ],
+    "names": [],
+    "file": "PersonList.css"
+}
